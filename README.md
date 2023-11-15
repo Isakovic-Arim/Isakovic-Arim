@@ -1,1 +1,1 @@
-[![Used Tech](https://skillicons.dev/icons?i=linux,git,nodejs,express,ts,react,raspberrypi,sqlite,svelte,tailwind,tauri,cs,dotnet,mongodb,postgres)](https://skillicons.dev)
+[![Used Tech](https://skillicons.dev/icons?i=linux,raspberrypi,git,docker,nodejs,ts,express,svelte,react,tailwind,tauri,cs,dotnet,sqlite,mongodb,postgres)](https://skillicons.dev)
